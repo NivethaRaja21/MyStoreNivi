@@ -8,6 +8,7 @@ class Mystore1ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.print("Hello app");
 	}
 
 }
